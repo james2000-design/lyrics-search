@@ -101,6 +101,7 @@ ul.songs li {
 
 .container {
   margin: 30px auto;
+  padding: 2px;
   max-width: 100%;
   width: 500px;
 }
